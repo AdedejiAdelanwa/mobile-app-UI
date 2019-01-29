@@ -90,7 +90,8 @@ hr {
   }
   .heading > h1 {
       text-align: left;
-      font-size: 3em;
+      font-size: 2.5em;
+      font-weight: 700;
       width: 80%;
 
   }
