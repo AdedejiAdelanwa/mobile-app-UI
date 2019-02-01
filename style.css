@@ -1,5 +1,6 @@
 :root {
     --cWidth: 95%;
+    box-sizing: border-box;
     
 }
 hr {
@@ -10,7 +11,7 @@ hr {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    box-sizing: border-box;
+    
   }
   
   .frame {
@@ -169,10 +170,6 @@ hr {
     width: 75%;
 }
 
-.mail-info > p i {
-
-}
-
 .mail-info span {
     font-size: 1.2em;
     font-weight: 600;
@@ -243,7 +240,7 @@ hr {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 2px;
+    margin:  2px;
 }
 
 .pic-scroll > div > img {
